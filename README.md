@@ -11,7 +11,7 @@ Para executar este teste, você precisa ter o Node.js instalado em seu sistema. 
 1. Clone o repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/teste-pokeapi-locations.git
+git clone https://github.com/lucasdiniz1708/Testes-JestJS
 ```
 
 Navegue até o diretório do projeto e Instale as dependências:
