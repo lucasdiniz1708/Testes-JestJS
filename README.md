@@ -12,18 +12,18 @@ Para executar este teste, você precisa ter o Node.js instalado em seu sistema. 
 
 ```bash
 git clone https://github.com/seu-usuario/teste-pokeapi-locations.git
-Navegue até o diretório do projeto:
-bash
-Copy code
-cd teste-pokeapi-locations
-Instale as dependências:
-bash
-Copy code
+```
+
+Navegue até o diretório do projeto e Instale as dependências:
+
+```bash
 npm install
+```
+
 Executando o teste
 Para executar o teste, você pode usar o comando:
 
-bash
-Copy code
-npx jest
+```bash
+npx  jest
+```
 Este comando irá iniciar a execução do teste e fornecerá feedback sobre o resultado
