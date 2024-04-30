@@ -20,7 +20,7 @@ Navegue até o diretório do projeto e Instale as dependências:
 npm install
 ```
 
-Executando o teste
+
 Para executar o teste, você pode usar o comando:
 
 ```bash
