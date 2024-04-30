@@ -23,4 +23,3 @@ describe("PokeAPI Locations", () => {
   });
 });
 
-// https://jestjs.io/pt-BR/docs/expect#tocontainitem
